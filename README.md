@@ -103,7 +103,19 @@ This project can be extended into:
 - Edge AI deployment
 - Geographic Information System (GIS) integration
 - Real-time IoT deployment
+## References 
+Hochreiter, Sepp & Schmidhuber, Jürgen,
+“Long Short-Term Memory,” Neural Computation, 1997.
+→ Core LSTM paper.
 
+Box, George E. P. & Jenkins, Gwilym M.,
+Time Series Analysis: Forecasting and Control.
+→ Classical forecasting reference.
+
+Brownlee, J., Deep Learning for Time Series Forecasting, 2018.
+→ Practical ML forecasting
+## statement 
+ This work aims to extend my project toward interdisciplinary applications like Environmental modeling, weather prediction.
 ## Author
 Srikanth Shanmugam
 Electronics and Instrumentation Engineering
