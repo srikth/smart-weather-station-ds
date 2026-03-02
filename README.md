@@ -103,6 +103,13 @@ This project can be extended into:
 - Edge AI deployment
 - Geographic Information System (GIS) integration
 - Real-time IoT deployment
+ ## Research Background
+
+Weather forecasting is fundamentally a time-series prediction problem. Classical statistical forecasting approaches such as ARIMA were formalized by Box and Jenkins.
+
+Modern deep learning approaches such as Long Short-Term Memory (LSTM) networks, introduced by Hochreiter and Schmidhuber, enable modeling of long-range temporal dependencies in sequential data.
+
+This project explores data-driven weather prediction using time-series modeling and neural networks to improve forecasting accuracy.
 ## References 
 Hochreiter, Sepp & Schmidhuber, Jürgen,
 “Long Short-Term Memory,” Neural Computation, 1997.
